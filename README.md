@@ -1,2 +1,2 @@
-# cathook-aio
-All in One Cathook Installer
+# Cathook AiO
+All in One Installer made using with dialog.
